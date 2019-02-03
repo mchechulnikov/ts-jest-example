@@ -1,0 +1,15 @@
+{
+  "name": "ts-jest-example",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "cd ./src; jest"
+  },
+  "devDependencies": {
+    "@types/jest": "23.3.13",
+    "@types/request-promise": "^4.1.42",
+    "jest": "23.6.0",
+    "request-promise": "4.2.2",
+    "ts-jest": "23.10.5",
+    "typescript": "3.3.1"
+  }
+}

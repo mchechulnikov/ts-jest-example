@@ -1,1 +1,0 @@
-# ts-jest-example
